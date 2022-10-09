@@ -9,6 +9,8 @@ Particles of each color move towards or away from other colors, creating unusual
 ![GIF of a simulation](previews/seed24.gif)
 ![GIF of a simulation](previews/seed32.gif)
 ![GIF of a simulation](previews/seed33.gif)
+![GIF of a simulation](previews/seed37.gif)
+![GIF of a simulation](previews/seed39.gif)
 
 ## Installation
 

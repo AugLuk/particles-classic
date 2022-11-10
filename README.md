@@ -1,7 +1,9 @@
-# Particles
+# Particles Classic
 A simple particle simulation with randomized rules.
 
 Particles of each color move towards or away from other colors, creating unusual and almost life-like patterns.
+
+For the new and improved Rust version see https://github.com/AugLuk/particles
 
 ## Previews
 
